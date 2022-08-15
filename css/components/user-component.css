@@ -50,16 +50,3 @@
   display: flex;
   align-items: center;
 }
-
-.user-component__numbers span {
-  margin-top: 8px;
-  margin-left: 10px;
-  color: red;
-  border: 1px solid red;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 15px;
-  height: 15px;
-}
